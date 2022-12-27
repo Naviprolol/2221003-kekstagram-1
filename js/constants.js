@@ -79,6 +79,6 @@ export const ErrorMessage = {
   HASHTAG_MAX_LENGTH: `Максимальная длина одного хэш-тега ${MaxHashtag.LENGTH} символов, включая #`,
   HASHTAG_MAX_COUNT: `Нельзя указать больше ${MaxHashtag.COUNT} хэш-тегов`,
   UBNORMAL_SYMBOLS: 'Хэш-тег содержит недопустимые символы',
-  MAX_COMM_LENGTH: `Максимальная длина комментария - ${MAX_COMMENT_LENGTH} символов.`,
+  MAX_COMM_LENGTH: `Максимальная длина комментария — ${MAX_COMMENT_LENGTH} символов.`,
   EMPTY_HASHTAG: 'Хэш-тег не может быть пустым',
 };
